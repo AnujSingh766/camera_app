@@ -11,7 +11,7 @@
   height: 520px;
   border: 3px solid white;
   overflow: hidden;
-  border: 5px solid greenyellow;
+  border: 5px solid rgb(209, 29, 29);
   background-color: bisque;
 }
 
@@ -73,7 +73,7 @@ button {
 select {
   width: 120px;
   height: auto;
-  background-color: red;
+  background-color: rgb(255, 136, 136);
   border-radius: 5px;
 }
 

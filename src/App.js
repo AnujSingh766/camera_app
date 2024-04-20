@@ -1,6 +1,6 @@
 import React, { useState, useRef } from "react";
 import Webcam from "react-webcam";
-import "./App.css"; // Assuming you have a CSS file for styling
+import "./App.css"; 
 
 const App = () => {
   const webcamRef = useRef(null);
